@@ -1,3 +1,6 @@
 # Guide-of-GitHub
 
-https://guides.github.com/activities/hello-world/
+
+[official guide](https://guides.github.com/activities/hello-world/)
+
+[3rd part guide](http://rogerdudler.github.io/git-guide/index.zh.html)
